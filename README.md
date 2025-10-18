@@ -34,7 +34,7 @@ It also strengthened my ability to document cybersecurity processes professional
 
 
 ## 🔗 Portfolio Links
-- **Project Report:** [View PDF](Report/Khushi_Ajmeri_OWASPZAP_Report.pdf)  
+- **Project Report:** [View PDF](Report/Final Project Report_CybersecurityFundamentals_KhushiTusharbhaiAjmeri.pdf)  
 - **Presentation Slides:** [View PPTX](Presentation/OWASPZAP_Presentation_Slides.pptx)  
 - **Evidence Screenshots:** [Screenshots Folder](Screenshots/)  
 - **HTML Report:** [ZAP Report](Evidence/zap_html_report.html)
